@@ -5,7 +5,8 @@ const itemList = [
         name : "유기동물지원 에코백 구해줘 멍군",
         price : "27,900원",
         sponsor : "동물학대와 동물복지",
-        sort : "가방"
+        sort : "가방",
+        webSite : "굿네이버스"
     },
     {
         http : "https://www.givestore.kr/goods/goods_view.php?goodsNo=1000001630",
@@ -13,7 +14,8 @@ const itemList = [
         name : "유기묘 유기견 유기동물 기부 티셔츠 비프렌드 펭귄",
         price : "25,000원",
         sponsor : "유기동물 보호단체",
-        sort : "의류"
+        sort : "의류",
+        webSite : "굿네이버스"
     },
     {
         http : "https://www.givestore.kr/goods/goods_view.php?goodsNo=1000001629",
@@ -21,7 +23,8 @@ const itemList = [
         name : "유기묘 유기견 유기동물 기부 티셔츠 비프렌드 MOONLIGHT 화이트",
         price : "25,000원",
         sponsor : "유기동물 보호단체",
-        sort : "의류"
+        sort : "의류",
+        webSite : "굿네이버스"
     },
     {
         http : "https://www.givestore.kr/goods/goods_view.php?goodsNo=1000001504",
@@ -29,7 +32,8 @@ const itemList = [
         name : "베이직 파우치 medium",
         price : "8,000원",
         sponsor : "국내복지사업",
-        sort : "가방"
+        sort : "가방",
+        webSite : "굿네이버스"
     },
     {
         http : "https://www.givestore.kr/goods/goods_view.php?goodsNo=1000001477",
@@ -37,7 +41,8 @@ const itemList = [
         name : "베이직 파우치 small",
         price : "6,500원",
         sponsor : "국내복지사업",
-        sort : "가방"
+        sort : "가방",
+        webSite : "굿네이버스"
     },
     {
         http : "https://www.givestore.kr/goods/goods_view.php?goodsNo=1000001666",
@@ -45,7 +50,8 @@ const itemList = [
         name : "제주도 4.3 동백꽃 에코백 가방",
         price : "13,000원",
         sponsor : "할머님 인건비와 일자리 개발",
-        sort : "가방"
+        sort : "가방",
+        webSite : "굿네이버스"
     },
     {
         http : "https://www.givestore.kr/goods/goods_view.php?goodsNo=1000001662",
@@ -53,7 +59,8 @@ const itemList = [
         name : "생활방수 피크닉 시장 가방 _ 5종",
         price : "7,000원",
         sponsor : "할머님 인건비와 일자리 개발",
-        sort : "가방"
+        sort : "가방",
+        webSite : "굿네이버스"
     },
     {
         http : "https://www.givestore.kr/goods/goods_view.php?goodsNo=1000001627",
@@ -61,7 +68,8 @@ const itemList = [
         name : "결식 아동 기부 팔찌 실버 플라워 팔찌",
         price : "19,000원",
         sponsor : "배고픔과 가난을 해결하기 위해 아이들",
-        sort : "주얼리"
+        sort : "주얼리",
+        webSite : "굿네이버스"
     },
     {
         http : "https://www.givestore.kr/goods/goods_view.php?goodsNo=1000001155",
@@ -69,7 +77,8 @@ const itemList = [
         name : "그레이스벨 손수건 04.밤하늘",
         price : "7,500원",
         sponsor : "위기가정아동",
-        sort : "기타"
+        sort : "기타",
+        webSite : "굿네이버스"
     },
     {
         http : "https://www.givestore.kr/goods/goods_view.php?goodsNo=1000000495",
@@ -77,7 +86,8 @@ const itemList = [
         name : "굿네이버스 과테말라 레터링 팔찌_AMOR",
         price : "12,000원",
         sponsor : "과테말라의 '산 비센테 데 파까야'라는 마을",
-        sort : "주얼리"
+        sort : "주얼리",
+        webSite : "굿네이버스"
     },
 
     {
@@ -86,7 +96,8 @@ const itemList = [
         name : "ed1 심플 기모 맨투맨",
         price : "35,000원",
         sponsor : "국내외 위기아동지원사업",
-        sort : "의류"
+        sort : "의류",
+        webSite : "세이브칠드런"
     },
     {
         http : "https://savethegoods.marpple.shop/kr/sck_goods/products/8603916",
@@ -94,7 +105,8 @@ const itemList = [
         name : "ed1 슬로건 기모 맨투맨",
         price : "35,000원",
         sponsor : "국내외 위기아동지원사업",
-        sort : "의류"
+        sort : "의류",
+        webSite : "세이브칠드런"
     },
     {
         http : "https://savethegoods.marpple.shop/kr/sck_goods/products/8603872",
@@ -102,7 +114,8 @@ const itemList = [
         name : "ed1 심플 후드",
         price : "39,000원",
         sponsor : "국내외 위기아동지원사업",
-        sort : "의류"
+        sort : "의류",
+        webSite : "세이브칠드런"
     },
     {
         http : "https://savethegoods.marpple.shop/kr/sck_goods/products/8603909",
@@ -110,7 +123,8 @@ const itemList = [
         name : "ed1 슬로건 후드",
         price : "39,000원",
         sponsor : "국내외 위기아동지원사업",
-        sort : "의류"
+        sort : "의류",
+        webSite : "세이브칠드런"
     },
     {
         http : "https://savethegoods.marpple.shop/kr/sck_goods/products/7836436",
@@ -118,7 +132,8 @@ const itemList = [
         name : "ed1 반팔 티셔츠",
         price : "23,000원",
         sponsor : "국내외 위기아동지원사업",
-        sort : "의류"
+        sort : "의류",
+        webSite : "세이브칠드런"
     },
     {
         http : "https://savethegoods.marpple.shop/kr/sck_goods/products/8604631",
@@ -126,7 +141,8 @@ const itemList = [
         name : "친환경 데일리백_with 275C",
         price : "13,300원",
         sponsor : "국내외 위기아동지원사업",
-        sort : "가방"
+        sort : "가방",
+        webSite : "세이브칠드런"
     },
 
     {
@@ -135,7 +151,8 @@ const itemList = [
         name : "친환경 데일리백_with 아방",
         price : "13,300원",
         sponsor : "국내외 위기아동지원사업",
-        sort : "가방"
+        sort : "가방",
+        webSite : "세이브칠드런"
     },
 
     {
@@ -144,7 +161,8 @@ const itemList = [
         name : "친환경 데일리백_with 9dol Rion",
         price : "13,300원",
         sponsor : "국내외 위기아동지원사업",
-        sort : "가방"
+        sort : "가방",
+        webSite : "세이브칠드런"
     },
     {
         http : "https://savethegoods.marpple.shop/kr/sck_goods/products/8604684",
@@ -152,7 +170,8 @@ const itemList = [
         name : "친환경 데일리백_with 솔정",
         price : "13,300원",
         sponsor : "국내외 위기아동지원사업",
-        sort : "가방"
+        sort : "가방",
+        webSite : "세이브칠드런"
     },
     {
         http : "https://savethegoods.marpple.shop/kr/sck_goods/products/7836486",
@@ -160,7 +179,8 @@ const itemList = [
         name : "ed1 아이폰 폰케이스",
         price : "19,500원",
         sponsor : "국내외 위기아동지원사업",
-        sort : "디지털/테그"
+        sort : "디지털/테그",
+        webSite : "세이브칠드런"
     },
     {
         http : "https://savethegoods.marpple.shop/kr/sck_goods/products/7836498",
@@ -168,7 +188,8 @@ const itemList = [
         name : "ed1 갤럭시 폰케이스",
         price : "19,500원",
         sponsor : "국내외 위기아동지원사업",
-        sort : "디지털/테그"
+        sort : "디지털/테그",
+        webSite : "세이브칠드런"
     },
     {
         http : "https://savethegoods.marpple.shop/kr/sck_goods/products/7836512",
@@ -176,7 +197,8 @@ const itemList = [
         name : "ed1 에어팟 케이스",
         price : "13,500원",
         sponsor : "국내외 위기아동지원사업",
-        sort : "디지털/테그"
+        sort : "디지털/테그",
+        webSite : "세이브칠드런"
     },
     {
         http : "https://savethegoods.marpple.shop/kr/sck_goods/products/7938430",
@@ -184,16 +206,17 @@ const itemList = [
         name : "ed1 에어팟 프로 케이스",
         price : "13,500원",
         sponsor : "국내외 위기아동지원사업",
-        sort : "디지털/테그"
+        sort : "디지털/테그",
+        webSite : "세이브칠드런"
     },
-
     {
         http : "https://savethegoods.marpple.shop/kr/sck_goods/products/7836524",
         img : "https://image1.marpple.co/files/u_1600652/2021/6/original/63abfd6835dbf833b6cbe2098d54ad50cb07fb0f1.png?q=92&w=600&f=jpeg&bg=f6f6f6",
         name : "ed1 버즈 케이스",
         price : "13,500원",
         sponsor : "국내외 위기아동지원사업",
-        sort : "디지털/테그"
+        sort : "디지털/테그",
+        webSite : "세이브칠드런"
     },
     {
         http :"https://loveseal.knta.or.kr/christmas/detail.html?idx=422",
@@ -201,7 +224,8 @@ const itemList = [
         name : " [2021 크리스마스 씰 굿즈] 크리스마스 씰 마스크스트랩",
         price : " 3,000 원 ",
         sponsor : " 결핵환자 ",
-        sort : "액세서리"
+        sort : "액세서리",
+        webSite : "크리스마스씰"
     },
     {
         http :"https://loveseal.knta.or.kr/christmas/detail.html?idx=420",
@@ -209,7 +233,8 @@ const itemList = [
         name : " [2021 크리스마스 씰 굿즈] 놀면뭐하니?와 함께하는 빈티지 종이자석 2종 ",
         price :"12,500 원",
         sponsor : " 결핵환자 ",
-        sort : "씰"
+        sort : "씰",
+        webSite : "크리스마스씰"
     },
     {
         http :"https://loveseal.knta.or.kr/christmas/detail.html?idx=413",
@@ -217,7 +242,8 @@ const itemList = [
         name :" [2021 크리스마스 씰] 놀면뭐하니?와 함께하는 크리스마스 씰 ",
         price :" 3,000원 ",
         sponsor : " 결핵환자 ",
-        sort : "씰"
+        sort : "씰",
+        webSite : "크리스마스씰"
     },
     {
         http :"https://loveseal.knta.or.kr/christmas/detail.html?idx=398",
@@ -225,7 +251,8 @@ const itemList = [
         name :"[2020 크리스마스 씰 굿즈] 펭-하! 펭수와 함께하는 크리스마스 씰 엽서세트(10매 1세트)",
         price : " 5,000원 ",
         sponsor : "결핵환자" ,
-        sort : "씰"
+        sort : "씰",
+        webSite : "크리스마스씰"
     },
     {
         http : "https://loveseal.knta.or.kr/christmas/detail.html?idx=397",
@@ -233,7 +260,8 @@ const itemList = [
         name :"[2020 크리스마스 씰 굿즈] 펭-하! 펭수와 함께하는 크리스마스 머그컵 2종",
         price :  " 15,000 원 ",
         sponsor : " 결핵환자 ",
-        sort : "생활"
+        sort : "생활",
+        webSite : "크리스마스씰"
     },
     {
         http : "https://loveseal.knta.or.kr/christmas/detail.html?idx=416",
@@ -241,7 +269,8 @@ const itemList = [
         name : "[2021 그린씰] 놀면 뭐하니?와 함께하는 크리스마스 씰",
         price : " 5,000 원 ",
         sponsor : " 결핵환자 ",
-        sort : "액세서리"
+        sort : "액세서리",
+        webSite : "크리스마스씰"
     },
     {
         http :" https://loveseal.knta.or.kr/christmas/detail.html?idx=315 ",
@@ -249,7 +278,8 @@ const itemList = [
         name :"[2016 크리스마스 씰] 독립을 향한 열망 - 대한민국 독립운동가 10인",
         price : "3,000원",
         sponsor : " 결핵환자 ",
-        sort : "씰"
+        sort : "씰",
+        webSite : "크리스마스씰"
     },
     {
         http :"https://loveseal.knta.or.kr/christmas/detail.html?idx=400",
@@ -257,7 +287,8 @@ const itemList = [
         name :" [2019 크리스마스 씰 굿즈] 제주도와 해녀문화 머그컵 3종",
         price : "15,000 원",
         sponsor :" 결핵환자 ",
-        sort : "생활"
+        sort : "생활",
+        webSite : "크리스마스씰"
     },
     {
         http :"https://loveseal.knta.or.kr/christmas/detail.html?idx=424",
@@ -265,7 +296,8 @@ const itemList = [
         name : "[2021 크리스마스 씰 굿즈 세트] 놀면뭐하니? & 크리스마스 씰 굿즈 세트 ",
         price : " 58,000원",
         sponsor : " 결핵환자 ",
-        sort : "세트"
+        sort : "세트",
+        webSite : "크리스마스씰"
     },
     {
         http : "https://loveseal.knta.or.kr/christmas/detail.html?idx=421",
@@ -273,17 +305,111 @@ const itemList = [
         name :"[2021 크리스마스 씰 굿즈] 크리스마스 씰 납작연필 2종세트",
         price : " 4,000 원",
         sponsor : " 결핵환자 ",
-        sort : "생활"
+        sort : "기타",
+        webSite : "크리스마스씰"
+    },
+    {
+        http : "https://www.givestore.kr/goods/goods_view.php?goodsNo=1000002236",
+        img : "https://postfiles.pstatic.net/MjAyMTEyMDFfMjk0/MDAxNjM4MzQxNjA3Mjc1.FdoAJJJqAX08mv3oRcCGdcTzIXPtxgyVzVZVWtoSHjAg.a979Hgkn1JXoc2PN6KGu5sG2GUWE4qqFQSO_GQ7A19Mg.JPEG.tls5611/1.jpg?type=w773",
+        name : "검은발페렛 멸종위기동물 스프링노트",
+        price : "3,000원",
+        sponsor : "식수위생위원회",
+        sort : "기타",
+        webSite : "굿네이버스"
+    },
+    {
+        http : "https://www.givestore.kr/goods/goods_view.php?goodsNo=1000001612",
+        img : "https://postfiles.pstatic.net/MjAyMTEyMDFfMjgw/MDAxNjM4MzQxNjA3MjYz.dg4C3wT1IJs8_vbLKL00vzDEdiWQlmUOZFRgCmYPJOYg.WHpY6Z5XXstTbGB8Cwsjocj9dhgpyVMBQOU8_UOvSpsg.JPEG.tls5611/2.jpg?type=w773",
+        name : "[비마켓] 국내 결식아동 기부팔찌 릴레이밴드 평창",
+        price : "10,000원",
+        sponsor : "국내 결식아동",
+        sort : "주얼리",
+        webSite : "굿네이버스"
+    },
+    {
+        http : "https://www.givestore.kr/goods/goods_view.php?goodsNo=1000001609",
+        img : "https://postfiles.pstatic.net/MjAyMTEyMDFfMjEx/MDAxNjM4MzQxNjA3Mjc5.WhdmVC4jX6VRLhP7sQ7Sow05McBCaXM5Qv0VBIp15JMg.egbN8s-P-GdWBILa-5zH5PTqze_IufFXt7TGRlf30YMg.JPEG.tls5611/3.jpg?type=w773",
+        name : "[비마켓] 빈곤 결식아동 기부파우치 캄보디아",
+        price : "15,000원",
+        sponsor : "캄보디아 빈곤 아동",
+        sort : "가방",
+        webSite : "굿네이버스"
+    },
+    {
+        http : "https://www.givestore.kr/goods/goods_view.php?goodsNo=1000001503",
+        img : "https://postfiles.pstatic.net/MjAyMTEyMDFfMTMw/MDAxNjM4MzQxNjA3MjY2.91ACixeHpWF0QK5hg2JCSuQj-W_RcCa-Iw0Nca0P55Ig._g0Bwou07zKjR7q0pci4Rv9TNEWa-KL7Ko3h0OmHaFYg.JPEG.tls5611/4.jpg?type=w773",
+        name : "에코어스 내추럴 에코백",
+        price : "9,800원",
+        sponsor : "위기가정아동, 희망나눔학교",
+        sort : "가방",
+        webSite : "굿네이버스"
+    },
+    {
+        http : "https://www.givestore.kr/goods/goods_view.php?goodsNo=1000001277",
+        img : "https://postfiles.pstatic.net/MjAyMTEyMDFfMjYg/MDAxNjM4MzQxNjA3Mjc5.07jMt1vHDNE_y5V0HGEUJpA2mto-mfrDos0V8L6YS5kg.Z80h-6fa7IEL68gjiYqijMnxIC5BB5sexQfWQS6ZM94g.JPEG.tls5611/5.jpg?type=w773",
+        name : "더나누기[thenanugi] 짐색",
+        price : "32,000원",
+        sponsor : "아동보호전문기관",
+        sort : "가방",
+        webSite : "굿네이버스"
+    },
+    {
+        http : "https://www.givestore.kr/goods/goods_view.php?goodsNo=1000001273",
+        img : "https://postfiles.pstatic.net/MjAyMTEyMDFfNTIg/MDAxNjM4MzQxNjA3Mjc3.BZfhiOrk4O-KpsnfBlAs1DV1PXUeNIxKQnsoyi6REM8g.jhSVBKDdrtktmM7Rjn0YxjpuM8XlFpB2IBj7t8bsn74g.JPEG.tls5611/6.jpg?type=w773",
+        name : "더나누기[thenanugi] 뉴큐브파우치",
+        price : "18,000원",
+        sponsor : "아동보호전문기관",
+        sort : "가방",
+        webSite : "굿네이버스"
+    },
+    {
+        http : "https://www.givestore.kr/goods/goods_view.php?goodsNo=1000001693",
+        img : "https://postfiles.pstatic.net/MjAyMTEyMDFfMTc2/MDAxNjM4MzQxNjA3NTMy.9248--w7GYpXTUSSk7dTjaQkyEFnwiwRvW5p60ch6B0g.2Q_QMmFZ1HTl2CgkHFU3h8D9kKdOhDUWMJnRQQ3GTMYg.JPEG.tls5611/7.jpg?type=w773",
+        name : "[굿네이버스] 베이직 롱 니트 비니",
+        price : "12,900원",
+        sponsor : "굿네이버스",
+        sort : "의류",
+        webSite : "굿네이버스"
+    },
+   {
+        http : "https://www.givestore.kr/goods/goods_view.php?goodsNo=1000002255",
+        img : "https://postfiles.pstatic.net/MjAyMTEyMDFfMTcx/MDAxNjM4MzQxNjA3NTYy.KZHX6dTzv0LumvX1qBJwtpWa517B6VBBgvFx_1VPYVwg.UJHbNJf11shBOpMKlvTNBysfBlgKahxMBPJ8vnou2ygg.JPEG.tls5611/8.jpg?type=w773",
+        name : "[더네이버스커피X앙쯔] 드립백 & 텀블러 선물 세트",
+        price : "34,800원",
+        sponsor : "르완다 커피농부",
+        sort : "세트",
+        webSite : "굿네이버스"
+    },
+    {
+        http : "https://www.givestore.kr/goods/goods_view.php?goodsNo=1000001795",
+        img : "https://postfiles.pstatic.net/MjAyMTEyMDFfMTMg/MDAxNjM4MzQxNjA3NjMy.yuEALnPwAnylZH1pIELSRwExHCVNJedNFDnZT4rh4eog.DLt8PRgup8EbhgzgG14cmlYH-rYEemqNIjQSk2ZtnsAg.JPEG.tls5611/9.jpg?type=w773",
+        name : "[굿네이버스] 코튼 G캡",
+        price : "18,900원",
+        sponsor : "굿네이버스",
+        sort : "의류",
+        webSite : "굿네이버스"
+    },
+    {
+        http : "https://www.givestore.kr/goods/goods_view.php?goodsNo=1000001585",
+        img : "https://postfiles.pstatic.net/MjAyMTEyMDFfMTgz/MDAxNjM4MzQxNjA3NzQ3.Zwjinvo8J76WKL4K6BGICcRVdYwOUHe0kk2ELl3ZTZwg.ijy5_lKT7gnxs40dHvhhgkiw-w0h8XFtMVWc6GVdZOkg.JPEG.tls5611/10.jpg?type=w773",
+        name : "[굿네이버스] 티셔츠 3종",
+        price : "18,900원",
+        sponsor : "굿네이버스",
+        sort : "의류",
+        webSite : "굿네이버스"
     },
 ]
 
-let bagItem = []
-let digitalItem = []
-let jewelryItem =[]
-let lifeItem = []
-let clothesItem = []
-let setItem = []
-let anyItem = []
+let bagItem = [];
+let digitalItem = [];
+let jewelryItem =[];
+let lifeItem = [];
+let clothesItem = [];
+let setItem = [];
+let anyItem = [];
+let goodBusItem = [];
+let saveChildItem = [];
+let christmasItem = [];
 
 for(let i=0; i<itemList.length; i++){
     if(itemList[i].sort == "가방"){
@@ -301,6 +427,18 @@ for(let i=0; i<itemList.length; i++){
     }else if(itemList[i].sort == "기타"){
         anyItem.push(itemList[i])
     }
+}
+
+for(let i=0; i<itemList.length; i++){
+    if(itemList[i].webSite == "굿네이버스"){
+        goodBusItem.push(itemList[i])
+    }else if(itemList[i].webSite == "크리스마스씰"){
+        christmasItem.push(itemList[i])
+    }else if(itemList[i].webSite == "세이브칠드런"){
+        saveChildItem.push(itemList[i])
+    }//else if(itemList[i].webSite == "세트"){
+    //     setItem.push(itemList[i])
+    // }
 }
 
 
@@ -392,5 +530,23 @@ function set(){
 function any(){
     for(let a=0; a<anyItem.length; a++){
         allItem(a, anyItem);
+    }
+}
+
+function goodBus(){
+    for(let a=0; a<goodBusItem.length; a++){
+        allItem(a, goodBusItem);
+    }
+}
+
+function christmas(){
+    for(let a=0; a<christmasItem.length; a++){
+        allItem(a, christmasItem);
+    }
+}
+
+function saveChild(){
+    for(let a=0; a<saveChildItem.length; a++){
+        allItem(a, saveChildItem);
     }
 }
