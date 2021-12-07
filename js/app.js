@@ -1,7 +1,7 @@
 const itemList = [
     {
         http : "https://www.givestore.kr/goods/goods_view.php?goodsNo=1000002117",
-        img : "https://postfiles.pstatic.net/MjAyMTEyMDFfMjUg/MDAxNjM4MzU1MDYyMTU5.Fk2a_hEmyQyfYcZnH-7qutIYw4d6QZRJ9w-Bky96HaEg.aPw3vB_TceNNz1Ew84oXTpWAbbNETEPGV6A0s_Apx24g.JPEG.dhguscks20/11%EC%A3%BC%EC%B0%A8_%ED%8C%8C%EC%9D%B4%EC%8D%AC.jpg?type=w580",
+        img : "./images/11.jpg",
         name : "유기동물지원 에코백 구해줘 멍군",
         price : "27,900원",
         sponsor : "동물학대와 동물복지",
@@ -10,7 +10,7 @@ const itemList = [
     },
     {
         http : "https://www.givestore.kr/goods/goods_view.php?goodsNo=1000001630",
-        img : "https://postfiles.pstatic.net/MjAyMTEyMDFfMTk4/MDAxNjM4MzQxMTgxNjk2.QObvhqQHFUlQ-wK6RPIIwRH-8nrtSOg4-2so_lHc1Skg.AuITCGMhLOKkk3GBEeP3IpvQhodfXyQQdzKHG99uThkg.JPEG.tls5611/1000001630_detail_035.jpg?type=w773",
+        img : "./images/12.jpg",
         name : "유기묘 유기견 유기동물 기부 티셔츠 비프렌드 펭귄",
         price : "25,000원",
         sponsor : "유기동물 보호단체",
@@ -19,7 +19,7 @@ const itemList = [
     },
     {
         http : "https://www.givestore.kr/goods/goods_view.php?goodsNo=1000001629",
-        img : "https://postfiles.pstatic.net/MjAyMTEyMDFfMjIy/MDAxNjM4MzQxMTg2NDkw.OolFw8JVp5fKgCnL9inM3XDvR3PKgD9IfXoJ5mrtEYkg.N54uaAV6Zy84GdSyEDmTJL3SmZHWrvKXdj1S6OVLCYUg.JPEG.tls5611/1000001629_detail_099.jpg?type=w773",
+        img : "./images/13.jpg",
         name : "유기묘 유기견 유기동물 기부 티셔츠 비프렌드 MOONLIGHT 화이트",
         price : "25,000원",
         sponsor : "유기동물 보호단체",
@@ -28,7 +28,7 @@ const itemList = [
     },
     {
         http : "https://www.givestore.kr/goods/goods_view.php?goodsNo=1000001504",
-        img : "https://postfiles.pstatic.net/MjAyMTEyMDFfOTEg/MDAxNjM4MzQxMTkyNjk4.H6PU-ohN-UJpzLeXAJE77DMqUxevvuvD0Ht2ki80J-cg.nfOFQ-44neCglYbRjsaJ0uQSnY_XTBbCfB_kUvseMtkg.JPEG.tls5611/1000001477_detail_070.jpg?type=w773",
+        img : "./images/14.jpg",
         name : "베이직 파우치 medium",
         price : "8,000원",
         sponsor : "국내복지사업",
@@ -37,7 +37,7 @@ const itemList = [
     },
     {
         http : "https://www.givestore.kr/goods/goods_view.php?goodsNo=1000001477",
-        img : "https://postfiles.pstatic.net/MjAyMTEyMDFfMTUz/MDAxNjM4MzQxMTk4MTgz.z_G_aRGV90rFl-i7u604b6K9Puawbp6C1_nwMKWM-MYg.Up1moB2jpqcS71Wj4soSl6d4WjcW9th9-AkxepR_NSQg.JPEG.tls5611/1000001477_detail_072.jpg?type=w773",
+        img : "./images/15.jpg",
         name : "베이직 파우치 small",
         price : "6,500원",
         sponsor : "국내복지사업",
@@ -46,7 +46,7 @@ const itemList = [
     },
     {
         http : "https://www.givestore.kr/goods/goods_view.php?goodsNo=1000001666",
-        img : "https://postfiles.pstatic.net/MjAyMTEyMDFfMTM5/MDAxNjM4MzQxMjA0NDU4.lOZlMuB9LEV-x281-7Ov7ZcHBTqOpMO3Qmr-9D62ur0g.egjtZAxlkHfi7YzHLK4xg84cgrhxJagyDP9PZHrLKUYg.JPEG.tls5611/1000001666_detail_073.jpg?type=w773",
+        img : "./images/16.jpg",
         name : "제주도 4.3 동백꽃 에코백 가방",
         price : "13,000원",
         sponsor : "할머님 인건비와 일자리 개발",
@@ -55,7 +55,7 @@ const itemList = [
     },
     {
         http : "https://www.givestore.kr/goods/goods_view.php?goodsNo=1000001662",
-        img : "https://postfiles.pstatic.net/MjAyMTEyMDFfMjk0/MDAxNjM4MzQxMjE0NjQ3.G-Ze18GCVtiuKoKG-YpxZHSH6DTC_yjL-lQSkpCGLVMg.MCSJmlqeuNPHo14q3cEJpdm1RNNAX4emCMvG9ahknYQg.JPEG.tls5611/1000001662_magnify_054.jpg?type=w773",
+        img : "./images/17.jpg",
         name : "생활방수 피크닉 시장 가방 _ 5종",
         price : "7,000원",
         sponsor : "할머님 인건비와 일자리 개발",
@@ -64,7 +64,7 @@ const itemList = [
     },
     {
         http : "https://www.givestore.kr/goods/goods_view.php?goodsNo=1000001627",
-        img : "https://postfiles.pstatic.net/MjAyMTEyMDFfMTM1/MDAxNjM4MzQxMjIwMzcx.R_Zm29T0qF2D4vNv65VwdURBiiqHwq2Z0QzMNNciRPUg.-J-qTmr1sgMhBHGua9UMsNaVihzCeIs5YOaV74Kv-eYg.JPEG.tls5611/1000001627_detail_048.jpg?type=w773",
+        img : "./images/18.jpg",
         name : "결식 아동 기부 팔찌 실버 플라워 팔찌",
         price : "19,000원",
         sponsor : "배고픔과 가난을 해결하기 위해 아이들",
@@ -73,7 +73,7 @@ const itemList = [
     },
     {
         http : "https://www.givestore.kr/goods/goods_view.php?goodsNo=1000001155",
-        img : "https://postfiles.pstatic.net/MjAyMTEyMDFfNDAg/MDAxNjM4MzQxMjI4OTk4.xNJxIH8wmFO2m6YnRY4l1vUjxd6qsvB_xLP4Ztfw5Akg.tnN4HePgMBhNrzW_tfHam6UwsDe-k6VaW-Qa_9oGG9og.JPEG.tls5611/1000001155_detail_085.jpg?type=w773",
+        img : "./images/19.jpg",
         name : "그레이스벨 손수건 04.밤하늘",
         price : "7,500원",
         sponsor : "위기가정아동",
@@ -82,7 +82,7 @@ const itemList = [
     },
     {
         http : "https://www.givestore.kr/goods/goods_view.php?goodsNo=1000000495",
-        img : "https://postfiles.pstatic.net/MjAyMTEyMDFfMTE5/MDAxNjM4MzQxMjM4Mjkz.o_G_zLjSnTX0xBQuHh_-sWm3es5lq7qWRBsxiW4_fAMg.1xB4LTzsNMXwUGaKok0WYUfu3NjVLl3ZVlxDPWRcnggg.JPEG.tls5611/1000000495_detail_060.jpg?type=w773",
+        img : "./images/20.jpg",
         name : "굿네이버스 과테말라 레터링 팔찌_AMOR",
         price : "12,000원",
         sponsor : "과테말라의 '산 비센테 데 파까야'라는 마을",
@@ -310,7 +310,7 @@ const itemList = [
     },
     {
         http : "https://www.givestore.kr/goods/goods_view.php?goodsNo=1000002236",
-        img : "https://postfiles.pstatic.net/MjAyMTEyMDFfMjk0/MDAxNjM4MzQxNjA3Mjc1.FdoAJJJqAX08mv3oRcCGdcTzIXPtxgyVzVZVWtoSHjAg.a979Hgkn1JXoc2PN6KGu5sG2GUWE4qqFQSO_GQ7A19Mg.JPEG.tls5611/1.jpg?type=w773",
+        img : "./images/1.jpg",
         name : "검은발페렛 멸종위기동물 스프링노트",
         price : "3,000원",
         sponsor : "식수위생위원회",
@@ -319,7 +319,7 @@ const itemList = [
     },
     {
         http : "https://www.givestore.kr/goods/goods_view.php?goodsNo=1000001612",
-        img : "https://postfiles.pstatic.net/MjAyMTEyMDFfMjgw/MDAxNjM4MzQxNjA3MjYz.dg4C3wT1IJs8_vbLKL00vzDEdiWQlmUOZFRgCmYPJOYg.WHpY6Z5XXstTbGB8Cwsjocj9dhgpyVMBQOU8_UOvSpsg.JPEG.tls5611/2.jpg?type=w773",
+        img : "./images/2.jpg",
         name : "[비마켓] 국내 결식아동 기부팔찌 릴레이밴드 평창",
         price : "10,000원",
         sponsor : "국내 결식아동",
@@ -328,7 +328,7 @@ const itemList = [
     },
     {
         http : "https://www.givestore.kr/goods/goods_view.php?goodsNo=1000001609",
-        img : "https://postfiles.pstatic.net/MjAyMTEyMDFfMjEx/MDAxNjM4MzQxNjA3Mjc5.WhdmVC4jX6VRLhP7sQ7Sow05McBCaXM5Qv0VBIp15JMg.egbN8s-P-GdWBILa-5zH5PTqze_IufFXt7TGRlf30YMg.JPEG.tls5611/3.jpg?type=w773",
+        img : "./images/3.jpg",
         name : "[비마켓] 빈곤 결식아동 기부파우치 캄보디아",
         price : "15,000원",
         sponsor : "캄보디아 빈곤 아동",
@@ -337,7 +337,7 @@ const itemList = [
     },
     {
         http : "https://www.givestore.kr/goods/goods_view.php?goodsNo=1000001503",
-        img : "https://postfiles.pstatic.net/MjAyMTEyMDFfMTMw/MDAxNjM4MzQxNjA3MjY2.91ACixeHpWF0QK5hg2JCSuQj-W_RcCa-Iw0Nca0P55Ig._g0Bwou07zKjR7q0pci4Rv9TNEWa-KL7Ko3h0OmHaFYg.JPEG.tls5611/4.jpg?type=w773",
+        img : "./images/4.jpg",
         name : "에코어스 내추럴 에코백",
         price : "9,800원",
         sponsor : "위기가정아동, 희망나눔학교",
@@ -346,7 +346,7 @@ const itemList = [
     },
     {
         http : "https://www.givestore.kr/goods/goods_view.php?goodsNo=1000001277",
-        img : "https://postfiles.pstatic.net/MjAyMTEyMDFfMjYg/MDAxNjM4MzQxNjA3Mjc5.07jMt1vHDNE_y5V0HGEUJpA2mto-mfrDos0V8L6YS5kg.Z80h-6fa7IEL68gjiYqijMnxIC5BB5sexQfWQS6ZM94g.JPEG.tls5611/5.jpg?type=w773",
+        img : "./images/5.jpg",
         name : "더나누기[thenanugi] 짐색",
         price : "32,000원",
         sponsor : "아동보호전문기관",
@@ -355,7 +355,7 @@ const itemList = [
     },
     {
         http : "https://www.givestore.kr/goods/goods_view.php?goodsNo=1000001273",
-        img : "https://postfiles.pstatic.net/MjAyMTEyMDFfNTIg/MDAxNjM4MzQxNjA3Mjc3.BZfhiOrk4O-KpsnfBlAs1DV1PXUeNIxKQnsoyi6REM8g.jhSVBKDdrtktmM7Rjn0YxjpuM8XlFpB2IBj7t8bsn74g.JPEG.tls5611/6.jpg?type=w773",
+        img : "./images/6.jpg",
         name : "더나누기[thenanugi] 뉴큐브파우치",
         price : "18,000원",
         sponsor : "아동보호전문기관",
@@ -364,7 +364,7 @@ const itemList = [
     },
     {
         http : "https://www.givestore.kr/goods/goods_view.php?goodsNo=1000001693",
-        img : "https://postfiles.pstatic.net/MjAyMTEyMDFfMTc2/MDAxNjM4MzQxNjA3NTMy.9248--w7GYpXTUSSk7dTjaQkyEFnwiwRvW5p60ch6B0g.2Q_QMmFZ1HTl2CgkHFU3h8D9kKdOhDUWMJnRQQ3GTMYg.JPEG.tls5611/7.jpg?type=w773",
+        img : "./images/7.jpg",
         name : "[굿네이버스] 베이직 롱 니트 비니",
         price : "12,900원",
         sponsor : "굿네이버스",
@@ -373,7 +373,7 @@ const itemList = [
     },
    {
         http : "https://www.givestore.kr/goods/goods_view.php?goodsNo=1000002255",
-        img : "https://postfiles.pstatic.net/MjAyMTEyMDFfMTcx/MDAxNjM4MzQxNjA3NTYy.KZHX6dTzv0LumvX1qBJwtpWa517B6VBBgvFx_1VPYVwg.UJHbNJf11shBOpMKlvTNBysfBlgKahxMBPJ8vnou2ygg.JPEG.tls5611/8.jpg?type=w773",
+        img : "./images/8.jpg",
         name : "[더네이버스커피X앙쯔] 드립백 & 텀블러 선물 세트",
         price : "34,800원",
         sponsor : "르완다 커피농부",
@@ -382,7 +382,7 @@ const itemList = [
     },
     {
         http : "https://www.givestore.kr/goods/goods_view.php?goodsNo=1000001795",
-        img : "https://postfiles.pstatic.net/MjAyMTEyMDFfMTMg/MDAxNjM4MzQxNjA3NjMy.yuEALnPwAnylZH1pIELSRwExHCVNJedNFDnZT4rh4eog.DLt8PRgup8EbhgzgG14cmlYH-rYEemqNIjQSk2ZtnsAg.JPEG.tls5611/9.jpg?type=w773",
+        img : "./images/9.jpg",
         name : "[굿네이버스] 코튼 G캡",
         price : "18,900원",
         sponsor : "굿네이버스",
@@ -391,7 +391,7 @@ const itemList = [
     },
     {
         http : "https://www.givestore.kr/goods/goods_view.php?goodsNo=1000001585",
-        img : "https://postfiles.pstatic.net/MjAyMTEyMDFfMTgz/MDAxNjM4MzQxNjA3NzQ3.Zwjinvo8J76WKL4K6BGICcRVdYwOUHe0kk2ELl3ZTZwg.ijy5_lKT7gnxs40dHvhhgkiw-w0h8XFtMVWc6GVdZOkg.JPEG.tls5611/10.jpg?type=w773",
+        img : "./images/10.jpg",
         name : "[굿네이버스] 티셔츠 3종",
         price : "18,900원",
         sponsor : "굿네이버스",
@@ -480,10 +480,6 @@ function allItem(i, list){
     newVisit.className = "visit";
     newVisit.innerHTML = "방문하기"
 }
-
-// for(let a=0; a<itemList.length; a++){
-//     allItem(a, itemList);
-// }
 
 function all(){
     for(let a=0; a<itemList.length; a++){
