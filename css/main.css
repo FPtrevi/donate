@@ -1,5 +1,12 @@
 @import url(http://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700);
 @import url(http://fonts.googleapis.com/css?family=Cardo:400,400italic,700);
+
+@font-face {
+  font-family: 'paybooc-Bold';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-07@1.0/paybooc-Bold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
 /* ==========================================================================
 Typography
 ========================================================================== */
@@ -38,7 +45,7 @@ h5 {
   font-size: 30px;
   font-weight: 600;
   border: 0;
-  font-family: "Open Sans", sans-serif;
+  font-family: "paybooc-Bold", sans-serif;
   -moz-border-radius: 2px;
   -webkit-border-radius: 2px;
   border-radius: 35px 35px 35px 35px;
@@ -51,7 +58,7 @@ h5 {
     background-color: #3b462f;
     color: #fff; }
   .btn-large {
-    padding: 15px 40px; }
+    padding: 15px 100px; }
 
 /* ==========================================================================
 	General Styles
@@ -95,6 +102,7 @@ ul li {
   position: fixed;
   width: 100%;
   z-index: 999; 
+  /* background-color: #292c47; */
   transition: all .35;}
   #header .header-content {
     border-bottom: 1px solid rgba(255, 255, 255, 0.15);
@@ -117,7 +125,7 @@ ul li {
     -moz-transition: padding 0.3s;
     -o-transition: padding 0.3s;
     -webkit-transition: padding 0.3s;
-    transition: all 0.1s; }
+    transition: all 0.3s; }
 
 
   #header .logo {
@@ -131,7 +139,9 @@ ul li {
     }
 
 #header.fixed {
-  background-color: #292c47; }
+  background-color: #292c47;
+  transition: all .2s;  
+}
   #header.fixed .header-content {
     border-bottom: 0;
     }
@@ -364,7 +374,7 @@ ul li {
   padding-left: 15%;}
   .banner-text h1 {
     color: #323C27;
-    font-family: "Open Sans", sans-serif;
+    font-family: "paybooc-Bold", sans-serif;
     font-weight: 300;
     font-size: 200px;
     text-transform: uppercase; 
@@ -372,19 +382,20 @@ ul li {
     }
     .banner-text span {
       color: #000000;
-      font-family: "Open Sans", sans-serif;
+      font-family: "paybooc-Bold", sans-serif;
       font-weight: 700;
       font-size: 35px;
       text-transform: uppercase; 
       }
   .banner-text h2 {
     color: #000000;
-    font-family: "Open Sans", sans-serif;
+    font-family: "paybooc-Bold", sans-serif;
     font-weight: 700;
     text-transform: uppercase;
     display: inline; }
   .banner-text p {
     color: #000000;
+    font-family: "paybooc-Bold";
     font-size: 22px;
     font-weight: 300;
     line-height: 1.5;}
